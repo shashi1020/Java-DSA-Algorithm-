@@ -37,6 +37,5 @@ This repository serves as:
 
 ---
 
-## 📂 Folder Structure
 
 
